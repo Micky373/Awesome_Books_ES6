@@ -1,7 +1,7 @@
 # Awesome_Books_ES6
-This is an Awesome books project using the best of ES6 practices
+This is an Awesome books project using the best practices of ES6 
 
-> In this project, we built a basic website - Awesome Books: plain JavaScript with objects, that allows users to add/remove books from a list.
+> In this project, I built a basic website - Awesome Books: plain JavaScript using ES6 with objects, that allows users to add/remove books from a list.
 
 ![screenshot](./images/Aws3.png)
 
@@ -9,9 +9,8 @@ The Awesome Books Project, which is a basic website that allows users to add/rem
 
 ## Built With
 
-- JavaScript
+- JavaScript ( ES6 )
 - HTML and CSS
-- Bootstrap
 
 **Instructions on setting up your project locally.**
 The project could be accessed by visiting the website link.
@@ -20,13 +19,7 @@ The project could be accessed by visiting the website link.
 
 [Click here to see the Awesome Library App](https://charlyeneh.github.io/Awesome-books-Library/) 
 
-## Authors
-
-👤 **Eneh Charles Chukwunweike**
-
-- GitHub: [@charlyeneh](https://github.com/charlyeneh)
-- Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
+## Author
 
 👤 **Michael Tamirie**
 
@@ -34,6 +27,12 @@ The project could be accessed by visiting the website link.
 - LinkedIn: [Michael_Tamirie](https://www.linkedin.com/in/michael-tamirie-288a331ab)
 
 ## 🤝 Contributing
+
+👤 **Eneh Charles Chukwunweike**
+
+- GitHub: [@charlyeneh](https://github.com/charlyeneh)
+- Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
 
 Contributions, issues, and feature requests are welcome!
 
