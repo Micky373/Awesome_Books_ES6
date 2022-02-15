@@ -17,7 +17,7 @@ The project could be accessed by visiting the website link.
 
 ## Live Demo 
 
-[Click here to see the Awesome Library App](https://charlyeneh.github.io/Awesome-books-Library/) 
+[Click here to see the Awesome Library App](https://micky373.github.io/Awesome_Books_ES6/) 
 
 ## Author
 
@@ -36,7 +36,7 @@ The project could be accessed by visiting the website link.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/charlyeneh/Awesome-books-Library/issues).
+Feel free to check the [issues page](https://github.com/Micky373/Awesome_Books_ES6/issues).
 
 ## Show your support
 

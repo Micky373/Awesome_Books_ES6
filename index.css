@@ -41,8 +41,9 @@ button {
 }
 
 #date {
-  padding-left: 70%;
-  padding-right: 2rem;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2.5rem;
 }
 
 a {
