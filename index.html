@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="https://fonts.googleapis.com/css?family=Quintessential:regular" rel="stylesheet" />
+		<link rel="stylesheet" href="index.css" />
+		<script
+      src="https://kit.fontawesome.com/e971436820.js"
+      crossorigin="anonymous"
+    ></script>
+		<title>Awesome books</title>
+	</head>
+	<body>
+		<main>
+			<section id="Nav_bar">
+				<h2>Awesome Books</h2>
+				<div id="Sections">
+					<a href="#List" class="left_border" id="jump_to_list">List</a>
+					<a href="#Add_new" class="left_border" id="jump_to_add_new">Add new</a>
+					<a href="#Contact" id="jump_to_contact">Contact</a>
+				</div>
+			</section>
+			<div id="date"></div>											
+			<section id="List" class="none">
+				<h1 class="awsome_books">All awesome books</h1>
+				<div id="Book_Lists">
+				</div>	
+			</section>		
+			<section id="Add_new">
+				<div class="add_new">
+					<h1 class="awsome_books">Add a new book</h1>
+				<form action="#">
+					<input id="title" type="text" placeholder="Book Title" required/><br />
+					<input id="author" type="text" placeholder="Book Author" required/><br />
+					<button id="add-btn" type="button"> Add </button>			
+				</form>
+				</div>
+			</section>
+			<section id="Contact" class="none">
+				<div class="contact_info">
+					<h1 class="awsome_books">Contact information</h1>
+				<p>Do you hav any questions or do you want to say hello to Micky?<br>You can reach us easily!!</p>
+				<ul class="contact_list">
+					<li>Our email: michaeltamirie@gmail.com </li>
+					<li>Our phone: +251920252752 </li>
+					<li>Our address: Ethiopia Addis Ababa</li>
+				</ul>
+				</div>
+			</section>
+			<section id="Copy_right" >
+				Copyright 2022<i class="fa fa-copyright" aria-hidden="true"></i> Micky 
+			</section>					
+		</main>
+		<script type = module src="index.js"></script>
+        <script src = 'https://moment.github.io/luxon/global/luxon.min.js'></script>
+	</body>
+</html>
