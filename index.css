@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Quintessential, sans-serif;
+  }
+  
+  .none {
+    display: none;
+  }
+  
+  button {
+    border: 1px solid black;
+    box-shadow: 0.05rem 0.05rem 2rem;
+    font-family: Quintessential, sans-serif;
+  }
+  
+  #Nav_bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0.5rem 1rem 1rem 1rem;
+    gap: 60%;
+    border: 1px solid black;
+    box-shadow: 0.05rem 0.05rem 2rem;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+  }
+  
+  #Sections {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .left_border {
+    border-right: 2px solid black;
+    height: 2rem;
+    padding-right: 1rem;
+  }
+  
+  #date {
+    padding-left: 70%;
+    padding-right: 2rem;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  p {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+  
+  #Add_new {
+    margin: 3rem 0 10rem 0;
+  }
+  
+  .add_new {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+  
+  #jump_to_list:active {
+    color: aqua;
+  }
+  
+  #jump_to_add_new:active {
+    color: aqua;
+  }
+  
+  #jump_to_contact:active {
+    color: aqua;
+  }
+  
+  input {
+    width: 20rem;
+    margin: 1rem 0;
+    border: 1px solid black;
+    box-shadow: 0.05rem 0.05rem 2rem;
+    font-family: Quintessential, sans-serif;
+  }
+  
+  .awsome_books {
+    font-size: 3rem;
+  }
+  
+  .remove {
+    padding: 0.1rem 1.5rem;
+    margin-right: 0.3rem;
+    font-size: 1rem;
+    border: 0.2rem solid black;
+  }
+  
+  #title,
+  #author {
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+  
+  #add-btn {
+    padding: 5px 15px;
+    font-size: 1.5rem;
+    margin: 0.2rem 0 0 75%;
+  }
+  
+  #Copy_right {
+    border: 1px solid black;
+    box-shadow: 0.05rem 0.05rem 2rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    margin: 4.5rem 1rem 0.5rem 1rem;
+    justify-self: flex-end;
+  }
+  
+  #Contact {
+    margin: 0.5rem 0 5.5rem 0;
+  }
+  
+  .contact_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 0 3rem 0;
+  }
+  
+  .contact_info ul {
+    align-self: flex-start;
+    padding-left: 35%;
+    font-size: 1.5rem;
+  }
+  
+  .contact_info p {
+    font-size: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  #List {
+    margin-top: 4rem;
+    margin-bottom: 23.2rem;
+  }
+  
+  .book_lists {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem;
+  }
+  
+  .book_lists p {
+    font-size: 1.5rem;
+  }
+  
+  .book_lists:nth-child(odd) {
+    background-color: #94a7ae;
+  }
+  
+  .book_lists:nth-child(even) {
+    background-color: #f4f2f3;
+  }
+  
+  #Book_Lists {
+    border: 0.2rem solid black;
+    margin: 1rem 0.5rem 5rem 25%;
+    width: 50%;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+  }
+  
+  #book_lists p {
+    width: 30rem;
+  }
+  
