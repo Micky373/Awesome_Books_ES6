@@ -3,7 +3,7 @@ This is an Awesome books project using the best practices of ES6
 
 > In this project, I built a basic website - Awesome Books: plain JavaScript using ES6 with objects, that allows users to add/remove books from a list.
 
-![screenshot](./images/Aws3.png)
+![screenshot](./images/ScreenShoot.PNG)
 
 The Awesome Books Project, which is a basic website that allows users to add/remove books from a list. This was achieved using JavaScript objects and arrays. I also dynamically modifed the DOM and add basic events.
 
